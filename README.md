@@ -70,8 +70,7 @@ Here's a quick demo of one of my projects:
 
 Feel free to reach out to me if you have any questions or collaboration opportunities.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** tiwarimitesh4@gmail.com
+- **GitHub:** [Your GitHub Profile](https://github.com/miteshtiwari)
 
 Let's connect and build something amazing together!
