@@ -62,7 +62,7 @@ Here are some notable projects I've worked on:
 Here's a quick demo of one of my projects:
 
 
-<!-- Add an animated GIF of your project -->![ezgif com-rotate](https://github.com/miteshtiwari/miteshtiwari/assets/80743610/a5efed82-59c2-4acc-921a-368f3294e91b)
+<!-- Add an animated GIF of your project -->![(E-Commerce App) Cross Platform](https://github.com/miteshtiwari/miteshtiwari/assets/80743610/a5efed82-59c2-4acc-921a-368f3294e91b)
 
 
 
