@@ -72,6 +72,6 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 - **Email:** tiwarimitesh4@gmail.com
 - **GitHub:** [Your GitHub Profile](https://github.com/miteshtiwari)
-- **LinkedIn:**https://www.linkedin.com/in/mitesh-tiwari-b73b3a202/
+- **LinkedIn:** https://www.linkedin.com/in/mitesh-tiwari-b73b3a202/
 
 Let's connect and build something amazing together!
